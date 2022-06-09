@@ -25,7 +25,7 @@
 |   |   |
 |---|---|
 | ![](./img/hist/GCA_017915135.1.khazarica.jpg) | ![](./img/hist/GCA_011397855.1.otitidis.jpg)  |
-|  ![](./img/hist/GCA_002355475.1.furukawai.jpg) | ![](./img/hist/GGCA_001597285.1.alcaligenes.jpg)  |
+|  ![](./img/hist/GCA_002355475.1.furukawai.jpg) | ![](./img/hist/GCA_001597285.1.alcaligenes.jpg)  |
 | ![](./img/hist/GCA_001586155.1.citronell.jpg)  |   |
 
 # Z-ДНК и гомологичные гены разных организмов
