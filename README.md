@@ -31,4 +31,4 @@
 # Z-ДНК и гомологичные гены разных организмов
 
 Всего кластеров: 
-![](./img/Species in clusters.jpg) 
+![](./img/Species%20in%20clusters.jpg) 
