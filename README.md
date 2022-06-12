@@ -28,8 +28,22 @@
 |  ![](./img/hist/GCA_002355475.1.furukawai.jpg) | ![](./img/hist/GCA_001597285.1.alcaligenes.jpg)  |
 | ![](./img/hist/GCA_001586155.1.citronell.jpg)  |   |
 
+**Расположение Z - ДНК, до локализации в промотерах
+![](./img/Z_DNA.jpg)
+
+**Расположение Z - ДНК в промотерах
+![](./img/Z_DNA_prom.jpg)
+
 # Z-ДНК и гомологичные гены разных организмов
 
-Всего кластеров: 5544
+Всего кластеров: 5565
 
 ![](./img/Species%20in%20clusters.jpg) 
+|   |
+|---|
+| ![](./img/Z_DNA_clust.0.jpg) |
+|  ![](./img/Z_DNA_clust.1.jpg) | 
+| ![](./img/Z_DNA_clust.2.jpg)  |
+| ![](./img/Z_DNA_clust.3.jpg) |
+|  ![](./img/Z_DNA_clust.4.jpg) | 
+| ![](./img/Z_DNA_clust.5.jpg)  |
