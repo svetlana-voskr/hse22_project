@@ -69,26 +69,26 @@
 <td rowspan=1>Промотор</td>
 <td rowspan=1>211093.9</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_003456284.1</td>
 <td rowspan=1>FGGY-family carbohydrate kinase</td>
 <td rowspan=1>Промотор</td>
 <td rowspan=1>2442.459</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_134676250.1</td>
 <td rowspan=1>FGGY-family carbohydrate kinase</td>
 <td rowspan=1>Промотор</td>
 <td rowspan=1>48804.94</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_044405102.1</td>
 <td rowspan=1>FGGY-family carbohydrate kinase</td>
 <td rowspan=1>Промотор</td>
 <td rowspan=1>6970.795</td>
 </tr>
   
-  <tr>
+<tr>
 <td rowspan=5>Cluster #2</td>
 <td rowspan=5>5</td>
 <td rowspan=1>WP_061903628.1</td>
@@ -102,26 +102,26 @@
 <td rowspan=1>Промотор</td>
 <td rowspan=1>138924.1</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_004421065.1</td>
 <td rowspan=1>SufE family protein</td>
 <td rowspan=1>Промотор</td>
 <td rowspan=1>28780.5</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_210389447.1</td>
 <td rowspan=1>SufE family protein</td>
 <td rowspan=1>Промотор</td>
 <td rowspan=1>1201.671</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_172434466.1</td>
 <td rowspan=1>SufE family protein</td>
 <td rowspan=1>Промотор</td>
 <td rowspan=1>138924.1</td>
 </tr>
 
-  <tr>
+<tr>
 <td rowspan=5>Cluster #3</td>
 <td rowspan=5>5</td>
 <td rowspan=1>WP_061902825.1</td>
@@ -135,26 +135,26 @@
 <td rowspan=1>Тело гена</td>
 <td rowspan=1>38833.58</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_003457979.1</td>
 <td rowspan=1>DeoR transcriptional regulator</td>
 <td rowspan=1>Тело гена /  Тело гена</td>
 <td rowspan=1>3428.529/ 3428.529</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_03754754.1</td>
 <td rowspan=1>DeoR transcriptional regulator</td>
 <td rowspan=1> Тело гена</td>
 <td rowspan=1>138924.1</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_044409993.1</td>
 <td rowspan=1>DeoR transcriptional regulator</td>
 <td rowspan=1>Тело гена / Тело гена</td>
 <td rowspan=1>1217.448 / 980.8116</td>
 </tr>
   
-   <tr>
+<tr>
 <td rowspan=5>Cluster #4</td>
 <td rowspan=5>5</td>
 <td rowspan=1>WP_061902613.1</td>
@@ -168,26 +168,26 @@
 <td rowspan=1>Промотор / Промотор</td>
 <td rowspan=1>4270.735 / 883.5764</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_003455761.1</td>
 <td rowspan=1>dihydroxy-acid dehydratase</td>
 <td rowspan=1>Тело гена</td>
 <td rowspan=1>302785.5</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_037055187.1</td>
 <td rowspan=1>dihydroxy-acid dehydratase</td>
 <td rowspan=1>Промотор /  Промотор</td>
 <td rowspan=1>4270.735 / 883.5764</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_172432347.1</td>
 <td rowspan=1>dihydroxy-acid dehydratase</td>
 <td rowspan=1>Тело гена / Тело гена</td>
 <td rowspan=1>1493.421 / 766.6232</td>
 </tr>
   
-     <tr>
+<tr>
 <td rowspan=5>Cluster #4</td>
 <td rowspan=5>5</td>
 <td rowspan=1>WP_061902613.1</td>
@@ -201,26 +201,26 @@
 <td rowspan=1>Промотор / Промотор</td>
 <td rowspan=1>4270.735 / 883.5764</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_003455761.1</td>
 <td rowspan=1>dihydroxy-acid dehydratase</td>
 <td rowspan=1>Тело гена</td>
 <td rowspan=1>302785.5</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_037055187.1</td>
 <td rowspan=1>dihydroxy-acid dehydratase</td>
 <td rowspan=1>Промотор /  Промотор</td>
 <td rowspan=1>4270.735 / 883.5764</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_172432347.1</td>
 <td rowspan=1>dihydroxy-acid dehydratase</td>
 <td rowspan=1>Тело гена / Тело гена</td>
 <td rowspan=1>1493.421 / 766.6232</td>
 </tr>
   
-       <tr>
+<tr>
 <td rowspan=5>Cluster #5</td>
 <td rowspan=5>5</td>
 <td rowspan=1>WP_061904954.1</td>
@@ -234,19 +234,19 @@
 <td rowspan=1>Промотор / Промотор / Тело гена</td>
 <td rowspan=1>6420.008 / 1737.612 / 883.5764</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_003453599.1</td>
 <td rowspan=1>sel1 repeat family protein</td>
 <td rowspan=1>Промотор / Промотор</td>
 <td rowspan=1>904.32 / 1737.612</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_210390646.1</td>
 <td rowspan=1>SEL1-like repeat protein</td>
 <td rowspan=1>Промотор</td>
 <td rowspan=1>302785.5</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_172432982.1</td>
 <td rowspan=1>sel1 repeat family protein</td>
 <td rowspan=1>Промотор</td>
@@ -254,7 +254,7 @@
 </tr>
   
   
-         <tr>
+<tr>
 <td rowspan=5>Cluster #6</td>
 <td rowspan=5>5</td>
 <td rowspan=1>WP_061903428.1</td>
@@ -268,25 +268,25 @@
 <td rowspan=1>Тело гена</td>
 <td rowspan=1>138924.1</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_003448450.1</td>
 <td rowspan=1>D-alanine--D--alanine ligase</td>
 <td rowspan=1>Тело гена</td>
 <td rowspan=1>13713.99</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_210390473.1</td>
 <td rowspan=1>D-alanine--D--alanine ligase</td>
 <td rowspan=1>Тело гена</td>
 <td rowspan=1>38833.58</td>
 </tr>
-  <tr>
+<tr>
 <td rowspan=1>WP_172432802.1</td>
 <td rowspan=1>D-alanine--D--alanine ligase</td>
 <td rowspan=1>Тело гена</td>
 <td rowspan=1>13713.99</td>
 </tr>
-  </tbody>
+</tbody>
 </table>
 
 ## Множественно белковое выравнивание
