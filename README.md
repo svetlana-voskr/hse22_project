@@ -38,7 +38,9 @@
 
 Всего кластеров: 5565
 
-![](./img/Species%20in%20clusters.jpg)
+|   |   |
+|---|---|
+|![](./img/Species%20in%20clusters.jpg) |![](./img/Genes%20in%20clusters.jpg)  |
 
 ## Таблица с информацией по выбранным кластерам
 <table>
