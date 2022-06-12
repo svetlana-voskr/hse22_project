@@ -37,9 +37,90 @@
 # Z-ДНК и гомологичные гены разных организмов
 
 Всего кластеров: 5565
+![](./img/Species%20in%20clusters.jpg)
 
 **Таблица с информацией по выбранным кластерам**
+<table>
+<thead>
+<tr>
+<th>Название кластера</th>
+<th>Кол-во генов</th>
+<th>Гены</th>
+<th>Функции генов</th>
+<th>Расположение Z-ДНК</th>
+<th>Z-Hunt score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan=5>Cluster #1</td>
+<td rowspan=5>5</td>
+<td rowspan=1>WP_061904735.1</td>
+<td rowspan=1>FGGY-family carbohydrate kinase</td>
+<td rowspan=1>Промотор</td>
+<td rowspan=1>211093.9</td>
+</tr>
+<tr>
+<td rowspan=1>WP_048167316.1</td>
+<td rowspan=1>FGGY-family carbohydrate kinase</td>
+<td rowspan=1>Промотор</td>
+<td rowspan=1>211093.9</td>
+</tr>
+  <tr>
+<td rowspan=1>WP_003456284.1</td>
+<td rowspan=1>FGGY-family carbohydrate kinase</td>
+<td rowspan=1>Промотор</td>
+<td rowspan=1>2442.459</td>
+</tr>
+  <tr>
+<td rowspan=1>WP_134676250.1</td>
+<td rowspan=1>FGGY-family carbohydrate kinase</td>
+<td rowspan=1>Промотор</td>
+<td rowspan=1>48804.94</td>
+</tr>
+  <tr>
+<td rowspan=1>WP_044405102.1</td>
+<td rowspan=1>FGGY-family carbohydrate kinase</td>
+<td rowspan=1>Промотор</td>
+<td rowspan=1>6970.795</td>
+</tr>
+  
+  <tr>
+<td rowspan=5>Cluster #2</td>
+<td rowspan=5>5</td>
+<td rowspan=1>WP_061903628.1</td>
+<td rowspan=1>SufE family protein</td>
+<td rowspan=1>Промотор / Тело гена</td>
+<td rowspan=1>28780.5 / 6565.992</td>
+</tr>
+<tr>
+<td rowspan=1>WP_061562515.1</td>
+<td rowspan=1>SufE family protein</td>
+<td rowspan=1>Промотор</td>
+<td rowspan=1>138924.1</td>
+</tr>
+  <tr>
+<td rowspan=1>WP_004421065.1</td>
+<td rowspan=1>SufE family protein</td>
+<td rowspan=1>Промотор</td>
+<td rowspan=1>28780.5</td>
+</tr>
+  <tr>
+<td rowspan=1>WP_210389447.1</td>
+<td rowspan=1>SufE family protein</td>
+<td rowspan=1>Промотор</td>
+<td rowspan=1>1201.671</td>
+</tr>
+  <tr>
+<td rowspan=1>WP_172434466.1</td>
+<td rowspan=1>SufE family protein</td>
+<td rowspan=1>Промотор</td>
+<td rowspan=1>138924.1</td>
+</tr>
 
+  
+  
+</table>
 
 **Множественно белковое выравнивание**
 Файлы дл Clustal и после приведены в папке aligment, также выровненные последовательсноти приведены ниже
@@ -332,8 +413,7 @@ WP_003448450.1      HLVLAILADSVEARG	315
     ```
   </details>
 
-**Визуализация расположения Z - ДНК для кластеров**
-![](./img/Species%20in%20clusters.jpg) 
+**Визуализация расположения Z - ДНК для кластеров** 
 |   |
 |---|
 | ![](./img/Z_DNA_clust.0.jpg) |
