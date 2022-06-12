@@ -596,7 +596,7 @@ WP_003448450.1      HLVLAILADSVEARG	315
 # Предсказание G-квадруплексов
 
 ## G квадруплексы в промотерах
-![](./img/G_prom.jpg)
+![](./img/G/G_prom.jpg)
 
 ## Множественно белковое выравнивание
 Файлы длz Clustal и после приведены в папке *G aligment*, также выровненные последовательноcти приведены ниже
@@ -893,7 +893,7 @@ WP_210390471.1      ALRAEQA-GSTLLIKGSRSAAMDKVVAALCDVS-GESH	456
 ## Визуализация расположения G для кластеров
 |   |
 |---|
-| ![](./img/G_clust.0.jpg) |
-| ![](./img/G_clust.1.jpg) | 
-| ![](./img/G_clust.2.jpg) |  
+| ![](./img/G/G_clust.0.jpg) |
+| ![](./img/G/G_clust.1.jpg) | 
+| ![](./img/G/G_clust.2.jpg) |  
   
